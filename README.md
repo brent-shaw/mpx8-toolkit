@@ -7,27 +7,29 @@ The file is broken down as follows:
   Kit header          - 50 bytes
   Pad data (internal) - 704 bytes
   Pad data (external) - 704 bytes
+  
+NOTE: This readme needs a lot of formatting work. 
 
 The file header is comprised as follows:
 
-  4B 49 54 48 // File header
-  80 00 00 00
-  E4 00 08 08 // Checksum or something
-  00 20 00 20
-  00 00 00 03
-  00 10 00 20
-  00 00 00 00
-  00 00 0C 18
-  00 00 0C 18
-  00 00 0C 18
-  00 00 0C 18
-  00 00 0C 18
-  00 00 0C 18
-  00 00 0C 18
-  00 00 00 00
-  00 00 00 00
-  00 00 00 00
-  00 00 00 00
+  # 4B 49 54 48 // File header
+  # 80 00 00 00
+  # E4 00 08 08 // Checksum or something
+  # 00 20 00 20
+  # 00 00 00 03
+  # 00 10 00 20
+  # 00 00 00 00
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 0C 18
+  # 00 00 00 00
+  # 00 00 00 00
+  # 00 00 00 00
+  # 00 00 00 00
 
 The kit header is comprised as follows:
 
