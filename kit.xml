@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kit>
+  <kitName>KIT001</kitName>
+  <pad number="1">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="2">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="3">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="4">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="5">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="6">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="7">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+  <pad number="8">
+    <internalSample>"NoSample"</internalSample>
+    <cardSample>&lt;Empty&gt; </cardSample>
+    <level>5</level>
+    <tuning>4</tuning>
+    <panning>4</panning>
+    <reverb>0</reverb>
+    <midi>0</midi>
+    <trigger>0</trigger>
+  </pad>
+</kit>
