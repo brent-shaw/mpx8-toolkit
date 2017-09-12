@@ -1,3 +1,5 @@
+#TODO COmbine this with general file
+
 padInternal = ["4B", "49", "54", "49", \
                "50", "00", "00", "00", \
                "00", "00", "00", "00", \
