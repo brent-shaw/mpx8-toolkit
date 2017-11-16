@@ -15,11 +15,11 @@ for k in range(0, len(array)):
 
 #print format(array[0], '#04x')
 
-checksum = 1
+checksum = 0
 
-for i in range(8, len(intarray)):
+for i in range(9, 8320):
     checksum = checksum+(intarray[i] & 0xff)
-    checksum = checksum
+    checksum = checksum & 0xff
 
 print format(checksum, '#04x')
 
