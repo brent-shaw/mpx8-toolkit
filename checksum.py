@@ -17,7 +17,7 @@ for k in range(0, len(array)):
 
 checksum = 0
 
-for i in range(9, 8320):
+for i in range(9, len(intarray)):
     checksum = checksum+(intarray[i] & 0xff)
     checksum = checksum & 0xff
 
